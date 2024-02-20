@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="383dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/days_one"
+        android:text="Sejá bem Vindo a chronological"
+        android:textAlignment="center"
+        android:textSize="34sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/inicial_img"
+        tools:src="@drawable/inicial_img" />
+
+    <ImageButton
+        android:id="@+id/nproductbutton"
+        android:layout_width="351dp"
+        android:layout_height="204dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="480dp"
+        android:src="@drawable/productum"
+        android:background="@null" />
+
+
+
+</FrameLayout>
