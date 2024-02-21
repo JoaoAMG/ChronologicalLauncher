@@ -1,6 +1,5 @@
 # Chronological Launcher
- A ideia deste projeto na verdade é fazer o planejamento de um software chamado "chronological launcher" que futuramente farei em KMM (kotlin mulltiplataform) a ideia é produzir esse app para meu colega de sala
-e amigo ramon couto, a ideia dele é fazer jogos em 8 bit,o primeiro jogo lançara em 2025,a ideia é que sejam jogos multiplataforma ( celular e pc) e os iniciais tenham tematica de suspense de uma olhada nas telas do app:
+Este projeto consiste no planejamento de um software chamado "Chronological launcher", que futuramente farei em KMM (kotlin mulltiplataform). A ideia é produzir esse APP para meu colega de sala e amigo Ramon Couto, com o intuito de fazer jogos em 8 bit. O primeiro jogo será lançado em 2025. Serão jogos multiplataforma (celular e PC) e os iniciais com a temática de suspense.  Dê uma olhada nas telas do APP:
 # Imagens
 <div style="display : inline-block">
 <img src="/images/chro1.PNG"  width="150px" alt="imc-img">
